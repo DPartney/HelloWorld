@@ -27,6 +27,8 @@ int main()
 	std::cout << "\nSize of iPtr = " << sizeof(iPtr);
 	std::cout << "\nvalue iPtr points to = " << *iPtr;
 
+	std::cout << "\nTo change or not to change";
+
 
 }
 
